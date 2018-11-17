@@ -1,0 +1,45 @@
+Lights:
+  num-0:
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  num-1:
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+  - brightness: 100
+    color: '#FFFFFF'
+# Time Zone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+TZ: America/New York
